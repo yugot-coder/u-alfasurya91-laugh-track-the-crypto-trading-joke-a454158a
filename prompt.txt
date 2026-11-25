@@ -1,0 +1,11 @@
+Write one original one-line joke about crypto and trading life, max 200
+characters, for the make.fun competition
+"u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a". The judge is
+an AI model that reads entries two at a time and picks the funniest,
+weighing: a clear setup and turn, a real laugh with a surprise payoff,
+truth to trading life (a recognisable detail such as the chart, the bag
+or the group chat), tight phrasing with the punchline at the end, and
+repeatability. Draft 10 candidates with a short reason each, pick the
+strongest, and ship it as a deterministic stdlib-only Python program
+(main.py) that writes the exact line to entry.txt (and /output/entry.txt
+when that directory exists), verified byte-for-byte.
